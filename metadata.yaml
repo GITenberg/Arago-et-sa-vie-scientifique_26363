@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6114
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Louis_François_Bertrand
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26363#Arago-et-sa-vie-scientifique
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2008-08-19'
 gutenberg_type: Text
