@@ -1,0 +1,34 @@
+_repo: Arago-et-sa-vie-scientifique_26363
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bertrand, Joseph
+    aliases:
+    - Bertrand, J. (Joseph)
+    - Bertrand, Joseph Louis François
+    - Bertrand, Joseph Louis Francois
+    birthdate: 1822
+    deathdate: 1900
+    gutenberg_agent_id: '6114'
+    url: http://www.gutenberg.org/2009/agents/6114
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Louis_François_Bertrand
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2008-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26363'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CT'
+- !lcc 'QC'
+- !lcsh 'Arago, Dominique François Jean, 1786-1853'
+- !lcsh 'Physicists -- France -- Biography'
+title: Arago et sa vie scientifique
+url: http://www.gutenberg.org/ebooks/26363
